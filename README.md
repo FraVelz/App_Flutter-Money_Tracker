@@ -1,16 +1,16 @@
-# money_tracker
+# Money Tracker
 
-A new Flutter project.
+Project #1 with Flutter. Money manager(tracker).
 
-## Getting Started
+It is a project developed from the course (Adrián Sáenz)
+https://www.youtube.com/watch?v=YtqmGxskJ9k&t=16761s
+to learn how to create applications in dart with flutter, it does not have the best way of teaching or the most efficient but it was one of the first courses to create apps that I did with flutter in addition to making and customizing the interface in my own way by looking for information in other sources to be able to do it.
 
-This project is a starting point for a Flutter application.
+* Custom interface color.
+* Current project without errors found.
+* Clean code.
+* Public repository and code :)
 
-A few resources to get you started if this is your first Flutter project:
+> Best regards!!!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Author: Francisco Vélez
