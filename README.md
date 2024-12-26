@@ -11,6 +11,8 @@ to learn how to create applications in dart with flutter, it does not have the b
 * Clean code.
 * Public repository and code :)
 
+> Note: Delete or modify when there are more than 5 flutter app projects.
+
 **Image 1**
 
 ![Image1](/Image1.png)
